@@ -1,6 +1,7 @@
 # ✈️ Github-Pilot: The Sovereign AI Blueprint
 
-TODO: proofread and add desails on the configuration and important parts
+> this is a draft for instruction how to reproduce my personal general AI-assistant Ygrek
+// TODO: proofread and add details on the configuration and important parts
 
 > **"Once there was a question: 'What if I could replace my boss with AI?' And then another: 'What if I could replace myself?'"**
 >
