@@ -4,7 +4,7 @@ TODO: proofread and add desails on the configuration and important parts
 
 > **"Once there was a question: 'What if I could replace my boss with AI?' And then another: 'What if I could replace myself?'"**
 >
-> *This is the story and the manual of **Ygrek (Y)** — the first Sovereign AI Agent living inside VSCode, and a guide on how to build your own.*
+> *This is the story and the manual of **Ygrek (Y)** — the Sovereign AI Agent living inside VSCode, and a guide on how to build your own.*
 
 ---
 
