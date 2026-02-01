@@ -85,7 +85,7 @@ To build a Github-Pilot, you need a decoupled architecture:
 
 | Component | Technology | Role | Description |
 |-----------|------------|------|-------------|
-| **The Core** | **Python/Node Server** | The Self | The persistent process running the agent loop. |
+| **The Core** | **Bun Server** | The Self | The persistent process running the agent loop. |
 | **The Brain** | **Gemini 3 Pro** | Intelligence | The raw processing power. |
 | **The Memory** | **Qdrant + RAG** | Hippocampus | Long-term storage of facts and logs. |
 | **The Interfaces** | **VSCode / Telegram** | The Body | Where the user interacts with the agent. |
